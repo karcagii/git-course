@@ -1,2 +1,4 @@
 # git-course
-Elsõ módosítás!
+Elso modositas!
+Most mar ekezetek nelkul!
+
